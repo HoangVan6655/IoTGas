@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "26720465575",
+    "firebase_url": "https://iotgas-e6fc9-default-rtdb.firebaseio.com",
+    "project_id": "iotgas-e6fc9",
+    "storage_bucket": "iotgas-e6fc9.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:26720465575:android:227e02f89f5989545ee182",
+        "android_client_info": {
+          "package_name": "com.example.iotgas"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "26720465575-pis40gt2g9be1dhlnadc0avr6hm8olsg.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.iotgas",
+            "certificate_hash": "a40bc147892c96adfeca35cd78f1ca6be941b0e6"
+          }
+        },
+        {
+          "client_id": "26720465575-7dre87vt8gj7ppco5ku43kv14ct2kuso.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB7K9TOEVkarkWrSiToHNCYpEplw6zCPN0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "26720465575-7dre87vt8gj7ppco5ku43kv14ct2kuso.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
