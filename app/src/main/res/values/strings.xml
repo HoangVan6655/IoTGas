@@ -1,3 +1,5 @@
 <resources>
     <string name="app_name">IoTGas</string>
+    <string name="channel_name">CanhBao</string>
+    <string name="channel_description">Day la channel Canh Bao</string>
 </resources>
